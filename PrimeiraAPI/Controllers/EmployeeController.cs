@@ -51,9 +51,9 @@ namespace PrimeiraAPI.Controllers
 
         [Authorize]
         [HttpGet]
-        public IActionResult Get()
+        public IActionResult Get(int pageNumber, int pageQuantity)
         {
-            var employess = _employeeRepository.Get();
+            var employess = _employeeRepository.Get(pageNumber, pageQuantity);
 
             return Ok(employess);
         }
