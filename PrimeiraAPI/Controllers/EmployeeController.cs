@@ -59,6 +59,7 @@ namespace PrimeiraAPI.Controllers
         {
             
             var employess = _employeeRepository.Get(pageNumber, pageQuantity);
+            throw new Exception("erro teste");
             _logger.Log(LogLevel.Error, "erro teste");
             return Ok(employess);
         }
