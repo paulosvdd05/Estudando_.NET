@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cHmWWwNXsOw=",
+  "dgSpecHash": "NGNeH/K3V8U=",
   "success": true,
   "projectFilePath": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\PrimeiraAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\NemW\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\NemW\\.nuget\\packages\\jwt\\10.1.1\\jwt.10.1.1.nupkg.sha512",
     "C:\\Users\\NemW\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.5\\microsoft.aspnetcore.authentication.jwtbearer.8.0.5.nupkg.sha512",
     "C:\\Users\\NemW\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.6\\microsoft.entityframeworkcore.8.0.6.nupkg.sha512",

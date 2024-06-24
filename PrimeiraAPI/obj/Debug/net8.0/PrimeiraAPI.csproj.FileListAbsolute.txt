@@ -46,3 +46,5 @@ C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\Microsoft.Id
 C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\NebApex.Extras.Authentication.JwtBearer.dll
 C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\libman.json
+C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\AutoMapper.dll
