@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using PrimeiraAPI.Model;
+using PrimeiraAPI.Domain.Model;
 
-namespace PrimeiraAPI.Infraestrutura
+namespace PrimeiraAPI.Infraestrutura.Repositories
 {
     public class ConnectionContext : DbContext
     {
@@ -13,5 +13,5 @@ namespace PrimeiraAPI.Infraestrutura
 
 
         }
-        }
     }
+}

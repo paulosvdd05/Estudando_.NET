@@ -1,14 +1,14 @@
 ﻿using Microsoft.AspNetCore.Connections;
-using PrimeiraAPI.Model;
+using PrimeiraAPI.Domain.Model;
 
-namespace PrimeiraAPI.Infraestrutura
+namespace PrimeiraAPI.Infraestrutura.Repositories
 {
     public class EmployeeRepository : InterfaceEmployeeRepository
     {
         private readonly ConnectionContext _context = new ConnectionContext();
         public void add(Employee employee)
         {
-          _context.Employees.Add(employee);
+            _context.Employees.Add(employee);
             _context.SaveChanges();
         }
 

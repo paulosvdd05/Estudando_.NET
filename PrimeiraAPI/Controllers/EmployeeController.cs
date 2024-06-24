@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using PrimeiraAPI.Model;
-using PrimeiraAPI.ViewModel;
+using PrimeiraAPI.Application.ViewModel;
+using PrimeiraAPI.Domain.Model;
 
 namespace PrimeiraAPI.Controllers
 {
@@ -59,7 +59,6 @@ namespace PrimeiraAPI.Controllers
         {
             
             var employess = _employeeRepository.Get(pageNumber, pageQuantity);
-            throw new Exception("erro teste");
             _logger.Log(LogLevel.Error, "erro teste");
             return Ok(employess);
         }
