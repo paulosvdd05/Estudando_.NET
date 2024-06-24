@@ -15,6 +15,7 @@ namespace PrimeiraAPI.Model
 
         public string? photo { get; private set; }
 
+        public Employee() { }
         public Employee(string name, int age, string photo) {
             this.name = name;
             this.age = age;

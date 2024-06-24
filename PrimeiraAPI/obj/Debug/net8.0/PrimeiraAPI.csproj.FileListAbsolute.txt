@@ -35,3 +35,14 @@ C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\Microsoft.En
 C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\Npgsql.dll
 C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\JWT.dll
+C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\NebApex.Extras.Authentication.JwtBearer.dll
+C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\NemW\source\repos\PrimeiraAPI\PrimeiraAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
