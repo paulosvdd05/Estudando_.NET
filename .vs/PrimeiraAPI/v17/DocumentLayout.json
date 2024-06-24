@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Migrations\\20240624132106_3Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PrimeiraAPI\\Migrations\\20240624132106_3Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\infraestrutura\\repositories\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\infraestrutura\\repositories\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Migrations\\20240624131915_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PrimeiraAPI\\Migrations\\20240624131915_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\domain\\model\\companyaggregate\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\domain\\model\\companyaggregate\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\domain\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\domain\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\application\\mapping\\domaintodtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\application\\mapping\\domaintodtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\domain\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\domain\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\controllers\\throwcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\controllers\\throwcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\migrations\\20240624131452_fistmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\migrations\\20240624131452_fistmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\infraestrutura\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\infraestrutura\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\primeiraapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\primeiraapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\domain\\model\\interfaceemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\domain\\model\\interfaceemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\application\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\application\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\primeiraapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\primeiraapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\nemw\\source\\repos\\primeiraapi\\primeiraapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAFB705-E598-4B43-8A45-9EC07AE4436D}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240624132106_3Migration.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Migrations\\20240624132106_3Migration.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Migrations\\20240624132106_3Migration.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Migrations\\20240624132106_3Migration.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Migrations\\20240624132106_3Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:21:06.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240624131915_SecondMigration.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Migrations\\20240624131915_SecondMigration.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Migrations\\20240624131915_SecondMigration.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Migrations\\20240624131915_SecondMigration.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Migrations\\20240624131915_SecondMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:19:16.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Program.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAD4vzUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:43:23.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DomainTODTOMapping.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Application\\Mapping\\DomainTODTOMapping.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Application\\Mapping\\DomainTODTOMapping.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Application\\Mapping\\DomainTODTOMapping.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Application\\Mapping\\DomainTODTOMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:38:14.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Domain\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Domain\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Domain\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Domain\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:26:26.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Domain\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Domain\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Domain\\Model\\Employee.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Domain\\Model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:58:43.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:05:06.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionContext.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Infraestrutura\\Repositories\\ConnectionContext.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Infraestrutura\\Repositories\\ConnectionContext.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Infraestrutura\\Repositories\\ConnectionContext.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Infraestrutura\\Repositories\\ConnectionContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:14:32.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThrowController.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\ThrowController.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Controllers\\ThrowController.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\ThrowController.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Controllers\\ThrowController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:53:37.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAkwE4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:51:22.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Domain\\Model\\CompanyAggregate\\Company.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Domain\\Model\\CompanyAggregate\\Company.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Domain\\Model\\CompanyAggregate\\Company.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Domain\\Model\\CompanyAggregate\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:02:07.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:17:20.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240624131452_FistMigration.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Migrations\\20240624131452_FistMigration.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Migrations\\20240624131452_FistMigration.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Migrations\\20240624131452_FistMigration.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Migrations\\20240624131452_FistMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:14:52.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Infraestrutura\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Infraestrutura\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Infraestrutura\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Infraestrutura\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:55:35.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PrimeiraAPI",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\PrimeiraAPI.csproj",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\PrimeiraAPI.csproj",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\PrimeiraAPI.csproj",
+              "RelativeToolTip": "PrimeiraAPI\\PrimeiraAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T12:50:17.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InterfaceEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Domain\\Model\\InterfaceEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Domain\\Model\\InterfaceEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Domain\\Model\\InterfaceEmployeeRepository.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Domain\\Model\\InterfaceEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:07:18.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Application\\ViewModel\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Application\\ViewModel\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Application\\ViewModel\\EmployeeViewModel.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Application\\ViewModel\\EmployeeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:42:40.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Key.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Key.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Key.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Key.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Key.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:27:40.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Application\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Application\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Application\\Services\\TokenService.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Application\\Services\\TokenService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAArwBkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:31:04.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PrimeiraAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\PrimeiraAPI.csproj",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\PrimeiraAPI.csproj",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\PrimeiraAPI.csproj",
+              "RelativeToolTip": "PrimeiraAPI\\PrimeiraAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T14:53:38.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\NemW\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "PrimeiraAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:43:25.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
