@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using PrimeiraAPI.Model;
 using PrimeiraAPI.ViewModel;
 
@@ -11,10 +12,13 @@ namespace PrimeiraAPI.Controllers
     {
 
         private readonly InterfaceEmployeeRepository _employeeRepository;
+        private readonly ILogger<EmployeeController> _logger;
 
-        public EmployeeController(InterfaceEmployeeRepository employeeRepository)
+        public EmployeeController(InterfaceEmployeeRepository employeeRepository, ILogger<EmployeeController> logger)
         {
             _employeeRepository = employeeRepository ?? throw new ArgumentNullException(nameof(employeeRepository));
+            _logger = logger ?? throw new ArgumentNullException(nameof(logger));
+
         }
 
         [Authorize]
@@ -53,8 +57,9 @@ namespace PrimeiraAPI.Controllers
         [HttpGet]
         public IActionResult Get(int pageNumber, int pageQuantity)
         {
+            
             var employess = _employeeRepository.Get(pageNumber, pageQuantity);
-
+            _logger.Log(LogLevel.Error, "erro teste");
             return Ok(employess);
         }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimeiraAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5f0af00c80bd7a94a5a3b59df4b5aad3516908d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ece84a09a5cea3a990832df6e9b828f73d8e483")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimeiraAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimeiraAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
